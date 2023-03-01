@@ -1,0 +1,45 @@
+:root {
+  /** colors */
+  --color-name: custom;
+  --color-bg-shade: #282A30;
+  --color-bg-base: #32343C;
+  --color-bg-surface: #3C3E48;
+  --color-bg-highlight: #464954;
+  --color-fg-shade: #A88F5F;
+  --color-fg-base: #BFAD8A;
+  --color-fg-surface: #D6CBB5;
+  --color-fg-highlight: #EEE9DF;
+  --color-primary-bg: #653426;
+  --color-primary-base: #BF6E57;
+  --color-primary-fg: #E5C5BC;
+  --color-secondary-bg: #2E241D;
+  --color-secondary-base: #5C473A;
+  --color-secondary-fg: #8A6B57;
+  --color-palette-red: #E06C75;
+  --color-palette-green: #98C379;
+  --color-palette-yellow: #E5C07B;
+  --color-palette-blue: #61AFEF;
+  --color-palette-purple: #C678DD;
+  --color-palette-cyan: #56B6C2;
+  --color-palette-orange: #FFBB7C;
+  
+  /** general */
+  --font-family: RAKKAS;
+  --display-image: block;
+
+  /** surface */
+  --surface-maxWidth: 1300px;
+  --surface-shadow: 2px 2px 0px rgb(101, 52, 38), 4px 4px 0px rgb(96.76923076923077, 50.76923076923077, 37.30769230769231), 6px 6px 0px rgb(92.53846153846153, 49.53846153846154, 36.61538461538461), 8px 8px 0px rgb(88.3076923076923, 48.30769230769231, 35.92307692307692), 10px 10px 0px rgb(84.07692307692308, 47.07692307692308, 35.23076923076923), 12px 12px 0px rgb(79.84615384615384, 45.84615384615385, 34.53846153846154), 14px 14px 0px rgb(75.61538461538461, 44.61538461538461, 33.84615384615385), 16px 16px 0px rgb(71.38461538461539, 43.38461538461539, 33.15384615384615), 18px 18px 0px rgb(67.15384615384616, 42.15384615384615, 32.46153846153846), 20px 20px 0px rgb(62.92307692307692, 40.92307692307692, 31.76923076923077), 22px 22px 0px rgb(58.69230769230769, 39.69230769230769, 31.076923076923077), 24px 24px 0px rgb(54.46153846153846, 38.46153846153846, 30.384615384615387), 26px 26px 0px rgb(50.230769230769226, 37.230769230769226, 29.692307692307693), 28px 28px 0px rgb(46, 36, 29);
+  --surface-borderRadius: 12px;
+
+  /** spacing */
+  --space-smallest: 0.125rem;
+  --space-small: 0.5rem;
+  --space-medium: 1rem;
+  --space-large: 1.5rem;
+  --space-largest: 3rem;
+
+  /** others */
+  --picture-size: 300px;
+  --group-count: 2;
+}
